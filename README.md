@@ -1,4 +1,3 @@
-# Portfolio
 # Mohammed Saqhib Uddin Khan – Portfolio
 
 Welcome to my personal portfolio website! 🚀
@@ -36,7 +35,7 @@ This site showcases my skills, projects, and contact details.
 
 ## 🌐 Portfolio Website
 
-[Live Site](https://mosaqhibkhan.github.io/portfolio) <!-- Replace with your GitHub Pages URL -->
+[Live Site](https://mosaqhibkhan.github.io/portfolio)(https://github.com/mosaqhibkhan/Portfolio.git)
 
 ---
 
